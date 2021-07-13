@@ -1,0 +1,41 @@
+/* Appbar Style Start */
+
+.appbar-main{
+    background-color: #123456;
+    padding: 20px ;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.appbar-main span.titleStyle{
+    color: white;
+    font-size: 20px;
+    margin-left: 10px;
+}
+
+/* Appbar Style End */
+
+
+.table-main{
+    padding: 10px;
+}
+
+
+.full-spinner-content{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.filter-area{
+    margin: 20px;
+}
+
+.house-details-main{
+    padding: 20px;
+}
